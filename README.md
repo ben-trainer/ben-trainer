@@ -4,7 +4,8 @@
 - <b>PowerShell</b>
   - [Microsoft Active Directory Lab](LINK HERE)
   
-- <b>x</b>
+<h2>Valorant Coach Projects and Data</h2>  
+- <b></b>
 
 - <b>x</b>
 
