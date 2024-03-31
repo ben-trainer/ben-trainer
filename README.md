@@ -9,6 +9,11 @@
 - <b>Analytical</b> [Work Examples](https://github.com/ben-trainer/VALORANT-Projects-and-Data).
 
 
+
+<h2>Functioning Home Network:</h2>
+
+- <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="benjamin-bravo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
