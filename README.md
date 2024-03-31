@@ -3,10 +3,11 @@
 <h2>General IT and Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
-<h2>Valorant Coach Projects and Data</h2>  
-- <b></b>
 
-- <b>x</b>
+<h2>Valorant Projects And Data:</h2>
+
+- <b>Analytical</b> [Work Examples](https://github.com/ben-trainer/VALORANT-Projects-and-Data).
+
 
 <h2> Connect with me:</h2>
 
