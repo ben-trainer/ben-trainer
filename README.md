@@ -1,9 +1,8 @@
 <h1>Hi, I'm Benjamin! Cyber Security student and Professional eSports Coach!</h1>
 
 <h2>General IT and Cybersecurity Projects:</h2>
-- <b>PowerShell</b>
-  - [Microsoft Active Directory Lab](LINK HERE)
-  
+
+- <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
 <h2>Valorant Coach Projects and Data</h2>  
 - <b></b>
 
