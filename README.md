@@ -3,16 +3,13 @@
 <h2>General IT and Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
+- <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
 
 <h2>Valorant Projects And Data:</h2>
 
 - <b>Analytical</b> [Work Examples](https://github.com/ben-trainer/VALORANT-Projects-and-Data).
 
 
-
-<h2>Functioning Home Network:</h2>
-
-- <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
 
 <h2> Connect with me:</h2>
 
