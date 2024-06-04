@@ -4,7 +4,7 @@
 
 - <b>osTicket Within Azure (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-prerequisites)
+  - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-post-install-cfg)
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ben-trainer/osTicket-lifecycle/tree/main)
 
 - <b>Zendesk (Help Desk Ticketing System) </b>
