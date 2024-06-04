@@ -2,7 +2,7 @@
 
 <h2>General IT and Cybersecurity Projects:</h2>
 
-- <b>osTicket Within Azure (Help Desk Ticketing System)</b>
+- <b>[osTicket Within Azure (Full view)](https://github.com/ben-trainer/osTicket-Full/tree/main)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-post-install-cfg)
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ben-trainer/osTicket-lifecycle/tree/main)
