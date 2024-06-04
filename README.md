@@ -2,8 +2,8 @@
 
 <h2>General IT and Cybersecurity Projects:</h2>
 
-- <b>Ticketing System (Zendesk)</b> [Zendesk](https://github.com/ben-trainer/osTicket-prerequisites).
-- <b>Ticketing System (Zendesk)</b> [Zendesk](https://github.com/ben-trainer/Ticketing-System/).
+- <b>Ticketing System 1 on Azure (Prequisites)</b> [osTicket](https://github.com/ben-trainer/osTicket-prerequisites).
+- <b>Ticketing System 2 </b> [Zendesk](https://github.com/ben-trainer/Ticketing-System/).
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
 - <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
 
