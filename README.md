@@ -2,10 +2,19 @@
 
 <h2>General IT and Cybersecurity Projects:</h2>
 
-- <b>Ticketing System 1 on Azure (Prequisites)</b> [osTicket](https://github.com/ben-trainer/osTicket-prerequisites).
-- <b>Ticketing System 1 on Azure (Post Install Configurations)</b> [osTicket](https://github.com/ben-trainer/osTicket-prerequisites).
-- <b>Ticketing System 1 on Azure (Ticket Lifecycles)</b> [osTicket](https://github.com/ben-trainer/osTicket-lifecycle/blob/main/README.md).
-- <b>Ticketing System 2 </b> [Zendesk](https://github.com/ben-trainer/Ticketing-System/).
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
+  - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-prerequisites)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ben-trainer/osTicket-lifecycle/tree/main)
+
+- <b>Zendesk (Help Desk Ticketing System) </b>
+  - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
+- <b>Microsoft Azure (in progress) </b>
+  - [Inspecting Network Traffic in Azure]()
+  - [Installing Active Directory in Azure]()
+  - [Configuring Active Directory in Azure]()
+  - [Understanding DNS in Azure]()
+  - [Understanding File Permissions in Azure]()
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
 - <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
 
