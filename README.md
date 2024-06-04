@@ -5,7 +5,6 @@
 - <b>Ticketing System 1 on Azure (Prequisites)</b> [osTicket](https://github.com/ben-trainer/osTicket-prerequisites).
 - <b>Ticketing System 1 on Azure (Post Install Configurations)</b> [osTicket](https://github.com/ben-trainer/osTicket-prerequisites).
 - <b>Ticketing System 1 on Azure (Ticket Lifecycles)</b> [osTicket](https://github.com/ben-trainer/osTicket-lifecycle/blob/main/README.md).
-
 - <b>Ticketing System 2 </b> [Zendesk](https://github.com/ben-trainer/Ticketing-System/).
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
 - <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
