@@ -11,7 +11,7 @@
   - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
 - <b>Microsoft Azure (in progress) </b>
   - Inspecting Network Traffic in Azure
-  - Installing Active Directory in Azure
+  - [Installing Active Directory in Azure](https://github.com/ben-trainer/Azure-Active-Directory-Home-Lab)
   - Configuring Active Directory in Azure
   - Understanding DNS in Azure
   - Understanding File Permissions in Azure
