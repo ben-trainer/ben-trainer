@@ -16,7 +16,7 @@
   - Understanding File Permissions in Azure
   
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
-- <b>Cisco Packet Tracer</b> [Home Network](https://github.com/ben-trainer/Home-Network/ ).
+
 
 <h2>Valorant Projects And Data:</h2>
 
