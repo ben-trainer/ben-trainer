@@ -1,6 +1,6 @@
 <h1>Hi, I'm Benjamin! IT and Cyber Security Student. Previous Professional eSports Coach!</h1>
 
-<h2>General IT and Cybersecurity Projects:</h2>
+<h2>IT Projects:</h2>
 
 - <b>[osTicket Within Azure (Full view)](https://github.com/ben-trainer/osTicket-Full/tree/main)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
