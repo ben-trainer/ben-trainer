@@ -9,13 +9,14 @@
 
 - <b>Zendesk (Help Desk Ticketing System) </b>
   - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
-- <b>Microsoft Azure (in progress) </b>
+- <b>Microsoft Azure </b>
   - [Inspecting Network Traffic in Azure using Wireshark](https://github.com/ben-trainer/Azure-Inspecting-Network-Traffic-using-Wireshark)
   - [Installing and Configuring Active Directory in Azure](https://github.com/ben-trainer/Azure-Active-Directory-Home-Lab)
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
   
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
+- <b>Imaging Laptops and Desktops (In Progress)</b>
 
 
 <h2>Valorant Projects And Data:</h2>
