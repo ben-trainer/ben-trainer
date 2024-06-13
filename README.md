@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin! IT and Cyber Security Student. Previous Professional eSports Coach!</h1>
+<h1>Hi, I'm Benjamin! IT and Cyber Security Student. Previous Professional eSports Coach and Analyst!</h1>
 
 <h2>IT Projects:</h2>
 
