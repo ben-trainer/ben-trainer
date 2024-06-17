@@ -18,6 +18,7 @@
   
 - <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
 - <b>Imaging Laptops and Desktops (In Progress)</b>
+- <b>Office 365 Administration (In Progress)</b>
 
 
 <h2>Valorant Projects And Data:</h2>
