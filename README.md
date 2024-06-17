@@ -16,7 +16,10 @@
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
   
-- <b>PowerShell</b> [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
+- <b>PowerShell</b>
+  - [Microsoft Active Directory Lab](https://github.com/ben-trainer/Active-Directory-Home-Lab).
+
+
 - <b>Imaging Laptops and Desktops (In Progress)</b>
 - <b>Office 365 Administration (In Progress)</b>
 
