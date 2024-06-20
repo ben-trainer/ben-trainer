@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin! IT and Cyber Security Student. Previous Professional eSports Coach and Analyst!</h1>
+<h1>Hi, I'm Benjamin, an IT Professional</h1>
 
 <h2>IT Projects:</h2>
 
@@ -16,6 +16,8 @@
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
+
+- <b>ServiceNow Lab (next)</b>
 - <b>Imaging Laptops and Desktops (In Progress)</b>
 - <b>Office 365 Administration (In Progress)</b>
 
