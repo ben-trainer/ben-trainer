@@ -1,4 +1,4 @@
-<h1>Hi, I'm Benjamin, an [IT Professional](https://www.linkedin.com/in/benjamin-bravo-9118bb246) </h1>
+<h1> Hi, I'm Benjamin, an <a href="https://www.linkedin.com/in/ben-bravo/">IT Professional</a> </h1>
 
 <h2>⭐ Featured Projects</h2>
 
