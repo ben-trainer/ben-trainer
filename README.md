@@ -18,7 +18,6 @@
 
 
 - <b>ServiceNow Lab (next)</b>
-- <b>Imaging Laptops and Desktops (In Progress)</b>
 - <b>Office 365 Administration (In Progress)</b>
 
 
