@@ -9,7 +9,6 @@
 
 - osTicket (Help Desk Ticketing System)
 
-  - [osTicket Within Azure (Full view)](https://github.com/ben-trainer/osTicket-Full/tree/main)
   - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-post-install-cfg)
 
