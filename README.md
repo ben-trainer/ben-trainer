@@ -24,7 +24,6 @@
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
 
-- ServiceNow Lab (next)
 - Office 365 Administration (In Progress)
 
 
