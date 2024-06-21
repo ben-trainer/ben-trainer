@@ -17,15 +17,14 @@
 
   - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
 
-- <b>Microsoft Azure </b>
+- Microsoft Azure
   - [Proton VPN Setup and Usage in Azure](https://github.com/ben-trainer/Proton-VPN-Setup-and-Usage)
- 
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
 
-- <b>ServiceNow Lab (next)</b>
-- <b>Office 365 Administration (In Progress)</b>
+- ServiceNow Lab (next)
+- Office 365 Administration (In Progress)
 
 
 <h2> 🤳Connect with me:</h2>
