@@ -24,7 +24,6 @@
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
 - Jira (Help Desk Ticketing System)
-- Office 365 Administration (In Progress)
 
 
 <h2> 🤳Connect with me:</h2>
