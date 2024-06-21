@@ -4,6 +4,7 @@
 
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ben-trainer/osTicket-lifecycle/tree/main)
   - [Inspecting Network Traffic in Azure using Wireshark](https://github.com/ben-trainer/Azure-Inspecting-Network-Traffic-using-Wireshark)
+  - [Installing and Configuring Active Directory in Azure](https://github.com/ben-trainer/Azure-Active-Directory-Home-Lab)
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -18,7 +19,7 @@
 
 - <b>Microsoft Azure </b>
   - [Proton VPN Setup and Usage in Azure](https://github.com/ben-trainer/Proton-VPN-Setup-and-Usage)
-  - [Installing and Configuring Active Directory in Azure](https://github.com/ben-trainer/Azure-Active-Directory-Home-Lab)
+ 
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
