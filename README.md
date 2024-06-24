@@ -23,6 +23,9 @@
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
+- In Progress Labs
+
+ - [VMware - Becoming A Power User]()
 
 
 <h2> 🤳Connect with me:</h2>
