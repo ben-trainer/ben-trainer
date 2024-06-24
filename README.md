@@ -4,7 +4,7 @@
 
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ben-trainer/osTicket-lifecycle/tree/main)
   - [Inspecting Network Traffic in Azure using Wireshark](https://github.com/ben-trainer/Azure-Inspecting-Network-Traffic-using-Wireshark)
-  - [Active Directory Simulation](https://github.com/ben-trainer/AD-Simulation/edit/main/)
+  - [Active Directory Simulation](https://github.com/ben-trainer/AD-Simulation/tree/main)
 
 <h2>👨‍💻 IT Projects:</h2>
 
