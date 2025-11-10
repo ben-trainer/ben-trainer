@@ -2,19 +2,12 @@
 
 <h2>⭐ Featured Projects</h2>
 
-  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ben-trainer/osTicket-lifecycle/tree/main)
+  - [AWS Billing Alerts & Weekly Cost Report Automation](https://github.com/ben-trainer/AWS-Weekly-Cost-Report-Automation/blob/main/README.md)
+  - [Azure Active Directory Simulation](https://github.com/ben-trainer/AD-Simulation/tree/main)
   - [Inspecting Network Traffic in Azure using Wireshark](https://github.com/ben-trainer/Azure-Inspecting-Network-Traffic-using-Wireshark)
-  - [Active Directory Simulation](https://github.com/ben-trainer/AD-Simulation/tree/main)
+
 
 <h2>👨‍💻 IT Projects:</h2>
-
-- osTicket (Help Desk Ticketing System)
-  - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-post-install-cfg)
-
-- Zendesk (Help Desk Ticketing System)
-
-  - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
 
 - Microsoft Azure
 
@@ -23,9 +16,12 @@
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
-- In Progress Labs
+- osTicket (Help Desk Ticketing System)
+  - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
+  - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-post-install-cfg)
 
-  - VMware - Becoming A Power User
+- Zendesk (Help Desk Ticketing System)
+  - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
 
 
 <h2> 🤳Connect with me:</h2>
