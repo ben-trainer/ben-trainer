@@ -7,7 +7,7 @@
   - [Inspecting Network Traffic in Azure using Wireshark](https://github.com/ben-trainer/Azure-Inspecting-Network-Traffic-using-Wireshark)
 
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>IT Projects:</h2>
 
 - Microsoft Azure
 
@@ -16,15 +16,10 @@
   - [Understanding DNS in Azure](https://github.com/ben-trainer/dns-testing/tree/main)
   - [Understanding File Permissions in Azure](https://github.com/ben-trainer/file-share-permissions/tree/main)
 
-- osTicket (Help Desk Ticketing System)
-  - [osTicket: Prerequisites and Installation](https://github.com/ben-trainer/osTicket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/ben-trainer/osTicket-post-install-cfg)
-
-- Zendesk (Help Desk Ticketing System)
-  - [Zendesk Ticketing System Practice](https://github.com/ben-trainer/Ticketing-System/)
 
 
-<h2> 🤳Connect with me:</h2>
+
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="benjamin-bravo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
